@@ -1,2 +1,2 @@
 # tabuada
- Em linguagem C
+ Em linguagem "C"
